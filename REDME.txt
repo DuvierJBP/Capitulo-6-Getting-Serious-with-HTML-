@@ -1,0 +1,4 @@
+Esta práctica pertenece al capitulo 6 de Head_First_HTML_and_CSS_Elisabeth_Robson_Eric_Freeman.
+En esta practica se estudia mas a fondo la ultima versión conocida como HTML5, donde se ponen
+a prueba algunas de sus ventajas. también se habla de etiquetas como <!DOCTYPE> y de archivos meta
+que le brindan una mejor estructura a la pagina. Los códigos fueron probados en https://validator.w3.org/
